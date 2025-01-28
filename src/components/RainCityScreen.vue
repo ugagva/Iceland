@@ -11,7 +11,7 @@
 </template>
 
 <style scoped lang="sass">
-@import "../assets/styles/main"
+@import  "../assets/styles/main"
 
 @keyframes neon
   0%, 100%
